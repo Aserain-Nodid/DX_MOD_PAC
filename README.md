@@ -3,7 +3,7 @@
 把对应mod的名字改为【UpdateXXX.pac】（xxx为Update最大序列+1），然后重启游戏，就应用上去了，目前只有日文版mod。
 
 
-[日本語](https://github.com/Karaik/DX_MOD_PAC/edit/main/README_JA.md)
+[日本語](https://github.com/Karaik/DX_MOD_PAC/blob/main/README_JA.md)
 
 
 # mod一览
