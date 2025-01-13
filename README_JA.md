@@ -3,7 +3,7 @@
 対応のmodファイルネームを「UpdateXXX.pac」へ変更（XXXは今ゲームフォルダで既存のUpdateパッチの最大値＋1）、そしてゲームフォルダで置き、ゲーム起動！
 
 
-[简体中文](https://github.com/Karaik/DX_MOD_PAC/edit/main/README.md)
+[简体中文](https://github.com/Karaik/DX_MOD_PAC/blob/main/README.md)
 
 
 # mod一覧
