@@ -28,7 +28,7 @@
 幻刃閃 20→125
 ファントム的取消逻辑
 ```
-### 煉獄_v0.9.4.pac
+### 煉獄_v1.0.1.pac
 
 作者：[@；）](https://github.com/semicolonclosingbracket)
 
