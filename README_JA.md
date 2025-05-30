@@ -28,9 +28,9 @@
 幻刃閃 20→125
 ファントムのキャンセルロジック
 ```
-### 煉獄_v1.0.1.pac
+### 煉獄_v1.1.0.pac
 
 作者：[@；）](https://github.com/semicolonclosingbracket)
 
-概要：Replace Level 1 - 30 of Hell by new levels. The difficulty of new levels is between original Level 60 to being higher than original Level 94. Some new levels have special mechanism for fun.
+概要：Replace Level 1 - 50 of Hell by new levels. The difficulty of new levels is between original Level 60 to being higher than original Level 94. Some new levels have special mechanism for fun.
 
